@@ -4,4 +4,4 @@
 
 https://www.thingiverse.com/thing:6705833
 
-![alt text](https://github.com/avatichi/cookie-tin-sewing-kit/blob/main/image1.jpg?raw=true)
+!(https://github.com/Avatichi/cookie-tin-sewing-kit/blob/main/Image1.jpeg?raw=true)
